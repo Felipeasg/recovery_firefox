@@ -8,3 +8,4 @@
 
     $ python python_read_firefox_recovery_tabs.py 18-11-16/recovery.bak
 
+    $ python open_firefox_with_session_bak.py 18-11-16/recovery.bak
